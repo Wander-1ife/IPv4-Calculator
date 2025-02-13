@@ -59,7 +59,3 @@ Last Usable IP: 192.168.1.254
 
 ## Logging
 The application logs important actions and errors in `subnet_calculator.log`, allowing users to track activity and troubleshoot issues.
-
-## Author
-**Sami-Ur-Rehman**
-
